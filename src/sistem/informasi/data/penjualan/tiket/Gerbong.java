@@ -30,7 +30,7 @@ public class Gerbong {
         this.kode = kode;
     }
 
-    public String getJenis(String jenis) {
+    public String setJenis(String jenis) {
         if (jenis.equals("Exc")) {
             return ("Executive");
         }
@@ -44,13 +44,9 @@ public class Gerbong {
         }
     }
 
-    public void setJenis(String jenis) {
-        this.jenis = jenis;
-    }
-
     @Override
     public String toString() {
-        return "Info Gerbong: " + "\n Kode Gerbong: " + kode + "\n Jenis Gerbong: " + getJenis(jenis);
+        return "Info Gerbong: " + "\n Kode Gerbong: " + kode + "\n Jenis Gerbong: " + setJenis(jenis);
     }
     
 }
