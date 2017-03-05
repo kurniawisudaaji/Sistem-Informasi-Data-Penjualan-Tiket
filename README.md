@@ -4,10 +4,10 @@ Tugas Besar OOP (Java)
 
 # Minimum Specification:
 
--Mengelola data Gerbong.
--Mengelola Data Kereta.
--Mengelola Data Stasiun.
--Mengelola Data Rute.
+-Mengelola data Gerbong
+-Mengelola Data Kereta
+-Mengelola Data Stasiun
+-Mengelola Data Rute
 -Membuat Tiket.
 
 # Task 1
