@@ -1,6 +1,9 @@
 # Sistem-Informasi-Data-Penjualan-Tiket
 
 Tugas Besar OOP (Java)
+ - Kurnia Wisuda Aji (1301150068)
+ - Rifky Maulana (1301154180)
+ - Herica Bunga Maharani (1301154572)
 
 # Minimum Specification:
 
