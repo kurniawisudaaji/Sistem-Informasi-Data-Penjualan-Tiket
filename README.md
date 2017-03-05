@@ -4,11 +4,11 @@ Tugas Besar OOP (Java)
 
 # Minimum Specification:
 
--Mengelola data Gerbong
--Mengelola Data Kereta
--Mengelola Data Stasiun
--Mengelola Data Rute
--Membuat Tiket
+- Mengelola data Gerbong
+- Mengelola Data Kereta
+- Mengelola Data Stasiun
+- Mengelola Data Rute
+- Membuat Tiket
 
 # Task 1
 
@@ -34,21 +34,21 @@ Get Rute
 # Task 2:
 
 # Desain daftar Menu
--Daftarkan menu apa saja yang ada pada aplikasi
+- Daftarkan menu apa saja yang ada pada aplikasi
 
 # MockUp GUI Aplikasi
--gambarkan desain mockup GUI ke dalam sebuah file gambar
--beri keterangan jika mockup menggambarkan suatu bisnis proses
--beri keterangan elemen yang ada dalam sebuah view
--beri keterangan kegunaan tombol2 yang ada
--beri keterangan proses perpindahan view
--boleh gambar tangan atau menggunakan tools
--upload image dan embed url ke comment trello
+- gambarkan desain mockup GUI ke dalam sebuah file gambar
+- beri keterangan jika mockup menggambarkan suatu bisnis proses
+- beri keterangan elemen yang ada dalam sebuah view
+- beri keterangan kegunaan tombol2 yang ada
+- beri keterangan proses perpindahan view
+- boleh gambar tangan atau menggunakan tools
+- upload image dan embed url ke comment trello
 
 # Kelas Aplikasi Konsol
--menampung array/list objek yang dibutuhkan
--buat method add/create, search, dan delete untuk setiap array/list
--buat method untuk setiap menu (1 menu = 1 method) -- usahakan tidak menaruh proses i/o di dalam method -- gunakan parameter dan return value
+- menampung array/list objek yang dibutuhkan
+- buat method add/create, search, dan delete untuk setiap array/list
+- buat method untuk setiap menu (1 menu = 1 method) -- usahakan tidak menaruh proses i/o di dalam method -- gunakan parameter dan return value
 
 # buatlah sebuah method "main menu" -- method ini akan menampilkan daftar menu yang ada, -- method menerima input pilihan menu dari user dan memanggil method menu yang sesuai -- usahakan menaruh semua proses i/o di dalam method ini
 
