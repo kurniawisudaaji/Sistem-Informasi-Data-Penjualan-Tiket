@@ -8,7 +8,7 @@ Tugas Besar OOP (Java)
 -Mengelola Data Kereta
 -Mengelola Data Stasiun
 -Mengelola Data Rute
--Membuat Tiket.
+-Membuat Tiket
 
 # Task 1
 
