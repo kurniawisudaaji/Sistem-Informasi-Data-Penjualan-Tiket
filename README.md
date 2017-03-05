@@ -12,20 +12,20 @@ Tugas Besar OOP (Java)
 
 # Task 1
 
-Gerbong full attribute encapsulate
+- Gerbong full attribute encapsulate
 
-Stasiun full attribute encapsulate
+- Stasiun full attribute encapsulate
 
-Kereta full attribute encapsulate
-Add Gerbong
-Get Gerbong by index
-Remove Gerbong
+- Kereta full attribute encapsulate
+-- Add Gerbong
+-- Get Gerbong by index
+-- Remove Gerbong
 
-Rute full attribute encapsulate
-Set Stasiun 1
-Set Stasiun 2
-Get Stasiun 1
-Get Stasiun 2
+- Rute full attribute encapsulate
+-- Set Stasiun 1
+-- Set Stasiun 2
+-- Get Stasiun 1
+-- Get Stasiun 2
 
 Tiket full attribute encapsulate
 Add Rute
