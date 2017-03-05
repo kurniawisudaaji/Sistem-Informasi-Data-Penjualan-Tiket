@@ -17,15 +17,15 @@ Tugas Besar OOP (Java)
 - Stasiun full attribute encapsulate
 
 - Kereta full attribute encapsulate
--- Add Gerbong
--- Get Gerbong by index
--- Remove Gerbong
+Add Gerbong
+Get Gerbong by index
+Remove Gerbong
 
 - Rute full attribute encapsulate
--- Set Stasiun 1
--- Set Stasiun 2
--- Get Stasiun 1
--- Get Stasiun 2
+Set Stasiun 1
+Set Stasiun 2
+Get Stasiun 1
+Get Stasiun 2
 
 Tiket full attribute encapsulate
 Add Rute
@@ -48,9 +48,14 @@ Get Rute
 # Kelas Aplikasi Konsol
 - menampung array/list objek yang dibutuhkan
 - buat method add/create, search, dan delete untuk setiap array/list
-- buat method untuk setiap menu (1 menu = 1 method) -- usahakan tidak menaruh proses i/o di dalam method -- gunakan parameter dan return value
+- buat method untuk setiap menu (1 menu = 1 method) 
+-- usahakan tidak menaruh proses i/o di dalam method 
+-- gunakan parameter dan return value
 
-# buatlah sebuah method "main menu" -- method ini akan menampilkan daftar menu yang ada, -- method menerima input pilihan menu dari user dan memanggil method menu yang sesuai -- usahakan menaruh semua proses i/o di dalam method ini
+- buatlah sebuah method "main menu" 
+-- method ini akan menampilkan daftar menu yang ada, 
+-- method menerima input pilihan menu dari user dan memanggil method menu yang sesuai 
+-- usahakan menaruh semua proses i/o di dalam method ini
 
 # Kelas Driver
 
