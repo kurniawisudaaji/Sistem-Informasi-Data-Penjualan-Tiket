@@ -7,7 +7,7 @@ package sistem.informasi.data.penjualan.tiket;
 
 /**
  *
- * @author USER
+ * @author Herica Bunga M (1301154572) IF-39-12
  */
 public class Gerbong {
     private String kode;
